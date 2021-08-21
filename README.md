@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fekeadam115
+- 👀 I’m interested in computer engineering, programming, software engineering, circuit design, mathematics
+- 🌱 I’m currently learning C++ and Java
+- 📫 How to reach me: fekeadam@gmail.com
